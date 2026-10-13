@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 52" width="196" height="52" role="img" aria-label="Github: Aakash553-stack">
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}.g{animation:g 3s ease-in-out infinite}@keyframes g{50%{stroke-opacity:.9}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  <rect x=".75" y=".75" width="194.5" height="50.5" rx="12" fill="#0A0F1E" stroke="#1E293B" stroke-width="1.5"/>
+  <rect class="g" x=".75" y=".75" width="194.5" height="50.5" rx="12" fill="none" stroke="#94A3B8" stroke-opacity=".3" stroke-width="1.5"/>
+  <g transform="translate(28 26)"><path d="M-6-4L-10 0-6 4M6-4L10 0 6 4M2.5-8L-2.5 8" fill="none" stroke="#F8FAFC" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <text class="mono" x="50" y="23" font-size="11.5" font-weight="700" fill="#F8FAFC" letter-spacing="1.5">GITHUB</text>
+  <text class="mono" x="50" y="38" font-size="10" fill="#94A3B8">Aakash553-stack</text>
+  <path d="M176 21l5 5-5 5" fill="none" stroke="#94A3B8" stroke-width="1.6" stroke-linecap="round"/>
+</svg>

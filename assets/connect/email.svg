@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196 52" width="196" height="52" role="img" aria-label="Email: say hello">
+  <style>.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}.g{animation:g 3s ease-in-out infinite}@keyframes g{50%{stroke-opacity:.9}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+  <rect x=".75" y=".75" width="194.5" height="50.5" rx="12" fill="#0A0F1E" stroke="#1E293B" stroke-width="1.5"/>
+  <rect class="g" x=".75" y=".75" width="194.5" height="50.5" rx="12" fill="none" stroke="#8B5CF6" stroke-opacity=".3" stroke-width="1.5"/>
+  <g transform="translate(28 26)"><rect x="-9.5" y="-6.5" width="19" height="13" rx="2.5" fill="none" stroke="#8B5CF6" stroke-width="1.6"/><path d="M-8.5-5L0 1.5 8.5-5" fill="none" stroke="#8B5CF6" stroke-width="1.6"/></g>
+  <text class="mono" x="50" y="23" font-size="11.5" font-weight="700" fill="#F8FAFC" letter-spacing="1.5">EMAIL</text>
+  <text class="mono" x="50" y="38" font-size="10" fill="#94A3B8">say hello</text>
+  <path d="M176 21l5 5-5 5" fill="none" stroke="#8B5CF6" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
