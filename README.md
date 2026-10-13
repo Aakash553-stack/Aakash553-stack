@@ -18,14 +18,13 @@
 
 ## 🏆 HackRU 2026 — Best Regeneron Entry Winner
 
-<a href="https://trialwright.tech"><img src="assets/award.svg" width="100%" alt="Award card: HackRU 2026 — Best Regeneron Entry Winner. Protocol Pre-Flight, AI-powered clinical trial protocol analysis. Flags missing sections, contradictions and patient burden. Team: Yash Lalwani, Hanumath Mandadi, Aakash Munawar."></a>
+<a href="https://trialwright.tech"><img src="assets/award.svg" width="100%" alt="Award card: HackRU 2026 — Best Regeneron Entry Winner. Protocol Pre-Flight, AI-powered clinical trial protocol analysis. Flags missing sections, contradictions and patient burden. A team project; Aakash built the frontend."></a>
 
 At HackRU 2026, my team built **Protocol Pre-Flight**, an AI-powered tool that reviews clinical trial protocols before a trial starts. It won the **Best Regeneron Entry** award.
 
 Changing a protocol after a trial starts is expensive, and [many of those amendments are avoidable](https://pubmed.ncbi.nlm.nih.gov/30227022/). Pre-Flight looks for the problems early: missing required sections, numbers or rules that contradict each other across sections, heavy patient burden, and anything else a person should check. Every finding points to the page that supports it, and an AI finding is dropped unless the text it quotes is actually on the page it cites. A person accepts or rejects each finding.
 
 - **My part:** I built the Next.js and TypeScript frontend, which is the upload page and the PDF review workspace where each finding is highlighted on the page it cites. I also built the typed API layer that connects the frontend to the team's FastAPI backend.
-- **Team:** [Yash Lalwani](https://github.com/Yash-Lalwani), [Hanumath Mandadi](https://github.com/Hanumath1506) and me.
 - **Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Python` `FastAPI` `PyMuPDF`
 
 **[Live demo → trialwright.tech](https://trialwright.tech)** &nbsp;·&nbsp; **[Source code (TrialWright repo)](https://github.com/Yash-Lalwani/TrialWright)**
